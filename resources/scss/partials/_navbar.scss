@@ -14,11 +14,11 @@
 a {
     color: #1C1C1C;
     font-weight: bolder;
+    padding: 0.5rem 1rem;
 
     &.link-active {
         color: #0082F9;
         border-bottom: 3px solid #0082F9;
         border-radius: 0;
-        
     }
 }

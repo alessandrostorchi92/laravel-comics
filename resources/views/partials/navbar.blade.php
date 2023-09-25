@@ -6,7 +6,7 @@
 
 <header>
 
-    <div class="container-fluid top-bar">
+    <div class="container top-bar">
 
         <img src="/images/dc-logo.png" alt="Logo DC">
 

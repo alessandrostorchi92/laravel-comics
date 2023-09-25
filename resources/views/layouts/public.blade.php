@@ -26,7 +26,7 @@
 
     <main>
         {{-- segnaposto che verrà sostituito con il contenuto di ogni pagina --}}
-        @yield('content')
+        @yield('comics')
     </main>
 
     <footer>
